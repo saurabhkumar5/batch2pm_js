@@ -76,13 +76,106 @@
 
 
 
-    function table(a){
-        for(let i = 0; i<=10; i++){
-            console.log(i*a)
-        }
-    }
+//     function table(a){
+//         for(let i = 0; i<=10; i++){
+//             console.log(i*a)
+//         }
+//     }
 
 
-   for(let i = 0; i<=10; i++){
-          table(i)
-   }
+//    for(let i = 0; i<=10; i++){
+//           table(i)
+//    }
+
+
+
+    //  const a  = (x)=>x
+        
+    //       const z  = a(10);
+    //       console.log(z)
+
+
+    // const a  = x=>x*x
+        
+    //       const z  = a(10);
+    //       console.log(z)
+
+
+    // const a  = (x,y)=>x*y
+        
+    // const z  = a(10,20);
+    // console.log(z)
+
+
+        
+
+    //   function momo(a){
+    //         a()
+    //     console.log("hello")
+        
+    //   }
+    //   momo(function hola(){console.log("goood")});
+
+
+
+//     function momo(a){
+//         a()
+//     console.log("hello")
+    
+//   }
+//   function hola(){
+//     console.log("goood")
+// }
+//   momo(hola);
+
+
+
+// function momo(a){
+//     a()
+// console.log("hello")
+
+// }
+
+// momo(()=>console.log("kullu"));
+
+
+// let a = 10;
+// console.log(a);
+
+
+// momo()
+
+// function momo(){
+//     console.log("hello")
+// }
+
+
+
+// self-invoking function
+// (
+//     function momo(){
+//         console.log("hello")
+//     }
+// )()
+
+
+
+//    (
+//     function (a){
+//         console.log("kullu",a)
+//     }
+//    )(10)
+
+
+        // (
+        //     ()=>console.log("kulllu",10))
+        // (10);
+
+
+        // (
+        //     a=>console.log(a)
+        // )("shimla")
+
+
+     
+        
